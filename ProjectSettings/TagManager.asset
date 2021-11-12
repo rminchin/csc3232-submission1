@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - SpeedUp
+  - Blocker
+  - Trigger
+  - Star
+  - Obstacle
+  - GravityUp
+  - HiddenObstacle
+  - GravityDown
+  - DoubleJump
+  - MovingPlatformDown
+  - MovingPlatformUp
+  - MockPlatform
+  - Wall
+  - BouncyPlatform
+  - level
+  - shop
+  - checkpoint
+  - SlipperyPlatform
+  - BulletPlayer
+  - BulletAI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MockPlatform
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
